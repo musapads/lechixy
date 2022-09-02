@@ -1,0 +1,20 @@
+{
+  "name": "bos-altyapi-v13",
+  "version": "3.0.0",
+  "description": "Umut Bayraktar Discord.js v13 Uyumlu Komutsuz Bot Altyapısı!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Umut Bayraktar",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.7.0",
+    "express": "^4.17.3",
+    "fs": "^0.0.2",
+    "moment": "^2.29.4"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
